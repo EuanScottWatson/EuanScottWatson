@@ -9,10 +9,6 @@
 
 ### My GitHub Stats
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="EuanScottWatson's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=euanscottwatson&show_icons=true&theme=radical
-" />
-
-</details>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.euanscottwatson.vercel.app/api?username=euanscottwatson&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Euan's github stats" />
+</a>
