@@ -1,7 +1,6 @@
 ### Hi, I'm [Euan Scott-Watson][linkedIn]
 
 ---
-<br />
 
 ## About me
 
