@@ -2,7 +2,9 @@
 
 ---
 <br />
+
 ## About me
+
 - 🇫🇷 I am bilingual speaking both French and English
 - 💻 I am a third year studying Computing at Imperial College London
 - 🤿 Fun fact: I am a certified dive master and love to play guitar
