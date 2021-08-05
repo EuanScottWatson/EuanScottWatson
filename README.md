@@ -1,9 +1,11 @@
 ### Hi, I'm [Euan Scott-Watson][linkedIn]
 
 ## About me
-- I am bilingual speaking both French and English
-- I am a third year studying Computing at Imperial College London
-- Fun fact: I am a certified dive master and love to play guitar
+- 🇫🇷 I am bilingual speaking both French and English
+- 💻 I am a third year studying Computing at Imperial College London
+- 🤿 Fun fact: I am a certified dive master and love to play guitar
+
+[<img align="left" alt="EuanScottWatson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedIn]
 
 [linkedIn]: https://www.linkedin.com/in/euan-scott-watson-4211951b7/
 
