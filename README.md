@@ -24,6 +24,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euanscottwatson&layout=compact&theme=material-palenight" />
 </a>
 
-<!-- ### My Week in Code:
+### My Week in Code:
 <a href="#my-week-in-code"><img src="https://readme-stats-seven-beta.vercel.app/api/wakatime?username=euanscottwatson&hide_border=true#2"></img></a>
- -->
+
