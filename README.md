@@ -17,7 +17,7 @@
 ### My GitHub Stats
 
 <a href="#my-github-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=euanscottwatson&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Euan's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=euanscottwatson&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Euan's github stats" />
 </a>
 
 <a href="#my-github-stats">
