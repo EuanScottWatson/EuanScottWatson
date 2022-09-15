@@ -4,8 +4,8 @@
 
 ## About me
 
-- 🇫🇷   I am bilingual speaking both French and English
-- 💻   I am a third year studying Computing at Imperial College London
+- 🇫🇷   I am bilingual speaking both French and English and a beginner at Italian
+- 💻   I am a fourth year studying Computing at Imperial College London
 - 🤿   Fun fact: I am a certified dive master and love to play guitar
 
 [<img align="left" alt="EuanScottWatson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedIn]
